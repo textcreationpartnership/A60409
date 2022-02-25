@@ -1,0 +1,826 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Clod-pate's ghost, or, A dialogue between Justice Clod-Pate and his [quondam] clerk honest Tom Ticklefoot wherein is faithfullly related all the news from purgatory, about Ireland, Langhorn, &amp;c / the author, T.T.</title>
+            <author>Smith, Francis, fl. 1657-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60409</idno>
+            <idno type="STC">Wing S4025</idno>
+            <idno type="STC">ESTC R638</idno>
+            <idno type="EEBO-CITATION">12305231</idno>
+            <idno type="OCLC">ocm 12305231</idno>
+            <idno type="VID">59226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59226)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 926:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Clod-pate's ghost, or, A dialogue between Justice Clod-Pate and his [quondam] clerk honest Tom Ticklefoot wherein is faithfullly related all the news from purgatory, about Ireland, Langhorn, &amp;c / the author, T.T.</title>
+                  <author>Smith, Francis, fl. 1657-1689.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Francis Smith. cf. NUC pre-1956, Wing (CD-ROM, 1996), and LCNAF.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint information from text; dated on p. 12: Aug. 25, 1679.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:59226:1"/>
+            <pb n="1" facs="tcp:59226:1"/>
+            <head>CLOD-PATE's Ghoſt: OR A DIALOGUE Between <hi>Juſtice CLOD-PATE,</hi> and his <hi>[quondam]</hi> Clerk Honeſt <hi>TOM TICKLEFOOT;</hi> WHEREIN <hi>Is Faithfully Related all the News from</hi> Purgatory, <hi>about</hi> Ire<g ref="char:EOLhyphen"/>land, Langhorn, <hi>&amp;c.</hi>
+            </head>
+            <byline>
+               <hi>The Author,</hi> T. T.</byline>
+            <epigraph>
+               <q>
+                  <l>
+                     <hi>Courants, Diurnals,</hi> will not do't;</l>
+                  <l>
+                     <hi>Gazetts</hi> no News can tell;</l>
+                  <l>Then <hi>Hey!</hi> for Brave <hi>Tom Ticklefoot!</hi>
+                  </l>
+                  <l>Who brings us News from Hell!</l>
+                  <bibl>
+                     <hi>L. Epigr.</hi> Lib. 3. Ep. 5.</bibl>
+               </q>
+            </epigraph>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>WHat a Rumbling, lumbring Noiſe do you make there? Cannot an Honeſt man ſleep for you? would I could find the Bed-ſtaff.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Would you were hang'd, you Raſcal! Cannot you put your Chairs and Stools in better order when you go to Kennel? I have broke my Shins moſt la<g ref="char:EOLhyphen"/>mentably.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I would you had broke your Neck for me, whoever you are; I'me ſure you have broke my Sleep, and I value an inch of my own Sleep before three Inches of your Neck; beſides you ha' ſpoil'd as hopeful a Dream as ever I had ſince I un<g ref="char:EOLhyphen"/>derſtood the Art of ſound Snoring: But who are you with a Rope to you? and what make you here?</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>How now <hi>Tom!</hi> what, do'ſt not know thy old <hi>Maſter?</hi> you and I ha' been better acquainted when time was.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>My old Maſter <hi>Clod-pate!</hi> Be<g ref="char:EOLhyphen"/>ſhrew your Heart, you put me in a cold, clammy, muck Sweat: I'me all of a Lather; I alwayes hated Converſe with the Folkes of the Inviſible World, ever ſince I could write <hi>Ticklefoot.</hi> But what Wind hath blown you hither? I thought we had been cock ſure of you.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>I'le do thee no harm <hi>Tom,</hi> upon my honeſt word; but I vow I ha' broke my ſhins filthily in the dark.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Why, could you not ſee your way by the Light of your Noſe? I'me ſure it uſed to out-ſhine a Beacon, or, at leaſt, a Flam-Boy.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Ay <hi>Tom!</hi> But I am now a <hi>Ghoſt in Quirpo,</hi> and have left my Noſe behind me.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>why did you not leave your <hi>Shins</hi> behind you too?</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Oh <hi>Tom!</hi> there's a Myſtery in that: how ſhould I walk without my Legs? And how ſhould I bring my Legs without my ſhins? But I ſee <hi>every Convenience has an Inconvenience;</hi> either I muſt leave my ſhins behind me, or be a lame Cripple; or my Noſe, and ſo be your <hi>poor Blind-man Sir:</hi> but leave off your Fooling, and give me a lit<g ref="char:EOLhyphen"/>tle of <hi>John Pontaeus</hi> his Balſom, whilſt my Wound is green.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Nay Maſter, if I had <hi>broke your Pate,</hi> I would have given you a <hi>Plaiſter;</hi> but if you break your own Shins, you muſt be your own Chirurgeon for <hi>Tom.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Well <hi>Sirrah,</hi> I'le be even with you; but let's be ſerious; I have a great mind to divert my ſelf with a little Diſ<g ref="char:EOLhyphen"/>courſe with you about the Affairs of your Hemiſphere.</p>
+            </sp>
+            <pb n="2" facs="tcp:59226:2"/>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>What you pleaſe for that, Sir! but pray be as conciſe as you can for your Life; I muſt be up by <hi>Break o' day,</hi> and trudge ten Miles to a Wake, by Eight a Clock i'th' morning, and I'me ſure there will be no ſport there till <hi>Tom Ticklefoot</hi> comes with his <hi>Tabour</hi> and <hi>Whiſtle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>
+                  <hi>A Fool ſcratch you with your own Nayles!</hi> Haſt thou no more Wit, than to quit the Gentile and Laudable Employ of a <hi>Juſtices Clerk</hi> to run rambling up and down the Country, and be the Buffoon to all the <hi>Wakes, May-games, Morrice-Dances,</hi> and <hi>Whitſon-Ales?</hi> Eſpecially <hi>Tom,</hi> when thou hadſt ſuch excellent Education under me: I am ſure thou haſt heard me <hi>Tickle a Point of Law</hi> many and many a time, would ha' done a man's heart good to have heard it: Ah <hi>Tom, Tom!</hi> thou might'ſt ha' learn'd ſomething, if thou hadſt had Brains.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>You may ſpeak your pleaſure; but ſo long as I can get Fools pence, and pick young Folks pockets with my Drolle<g ref="char:EOLhyphen"/>ry, call me <hi>Tom Ticklefool,</hi> if you will, it's all one to <hi>Tom:</hi> Shall I tell you, Maſter, I got more by <hi>Buckingham-Ballad,</hi> than by a Dozen of your Warrants; and then I writ a Play t'other day, without Head or Foot, Plot or Language, Wit or Fancy, and yet it turn'd to more Account, than Licenſing half the Ale-Houſes in our Divi<g ref="char:EOLhyphen"/>ſion at <hi>Eaſter:</hi> Well! <hi>That's my Good, that does me Good:</hi> I'me Maſter o' <hi>more Shillings</hi> now, ſince I was my own Maſter, than I was o' <hi>Pence</hi> when I was your Servant; and I proteſt I get more by <hi>Tickling my Tabour,</hi> than ever you got by <hi>Tickling a Point o' Law</hi> in all your Life.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>
+                  <hi>Ay,</hi> but <hi>Tom!</hi> The Creditable<g ref="char:EOLhyphen"/>neſs and Gentileneſs of an Employ is worth ſomething.</p>
+            </sp>
+            <sp>
+               <speaker>Tickef.</speaker>
+               <p>Yes, but the Honeſty of an Em<g ref="char:EOLhyphen"/>ploy is worth more. I tell you true, my Conſcience grumbl'd filthily to live upon the Sins of the People; and I'me certain, two parts in three of thoſe we puniſh'd for Sinners, we firſt made Sinners; but that which vex'd me to the Guts, was, that when I (under correction) was the bet<g ref="char:EOLhyphen"/>ter Juſtice o'th' two, you engroſs'd all the Profits, and fob'd me off with your Lea<g ref="char:EOLhyphen"/>vings, and poor <hi>Tom</hi> had nothing but ſome odd Scraps out o'th' Compoſitions of poor Whores, to keep Life and Soul toge<g ref="char:EOLhyphen"/>ther: my Doublet was almoſt all together out at Elbows with writing o' your War<g ref="char:EOLhyphen"/>rants, and my Stockings out at Heels with running o' your Errands; I was your Loadſ<g ref="char:EOLhyphen"/>man to bring Griſt to your Mill, and yet I have not quit Scores with the Botcher to this day: but this I ſay, my Conſcience would not let me tolerate Whores for our Fees.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>This 'tis when every hair-brain'd half-witted Coxcomb will be wiſer than <hi>Roman Catholick Church:</hi> She upon poli<g ref="char:EOLhyphen"/>tick Reaſons tolerates Whores and Stews, as knowing, if mens Luſts be damm'd up in their ordinary Courſe, they'll find a more filthy Channel: She allows <hi>Simple Fornication,</hi> to prevent <hi>Adulteries</hi> and <hi>Sodo<g ref="char:EOLhyphen"/>mies;</hi> the <hi>leſſer Evil to be the Remedy for the greater.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Wiſely done Maſter! for Satan to caſt out Satan, one Sin to cure another! Why could not She uſe <hi>God's Remedy</hi> as well as the <hi>Devil's?</hi> She prohibits <hi>Marri<g ref="char:EOLhyphen"/>age in the Clergy,</hi> which is God's Remedy; and allows Fornication in all, which is the Devils: and yet no Remedy neither; for the Devil does but enter his Whelps with the unmarried, that when they have got Impudence enough, he may Fleſh 'em upon the Married: And examine it when you will, you ſhall find all your <hi>Adulterers</hi> to have firſt been <hi>Fornicators;</hi> and he tran<g ref="char:EOLhyphen"/>flates them as they are ripe for the Game, as we do Young Players, from the Nurſery in <hi>Barbican,</hi> to the Academy in <hi>Salisbury</hi>-Court. I hope this is as ſerious as your heart can wiſh.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Well, take your Courſe <hi>Tom;</hi> but we had a ſtrange piece of News in Pur<g ref="char:EOLhyphen"/>gatory t'other day, that you had invaded the Bench, <hi>Tom,</hi> and had Arraigned the Priſoners, when they were Acquitted by that <hi>Bleſſed Jury,</hi> and Condemned the <hi>Judge</hi> himſelf too; I promiſe you, had I catcht you enterloping upon my Office, in my time, I had beſtowed ſuch a Clap<g ref="char:EOLhyphen"/>perclawing on you, you ſhould not have Claw'd it off in one Seven Years. But <hi>Tom!</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>What a Stir's here with <hi>Tom, Tom?</hi> Nothing but plain <hi>Tom!</hi> Were I not under ſuch Circumſtances as oblige me not to provoke you, I would tell you, Sir, the <hi>Toms</hi> are as good Gentlemen as walk upon <hi>Engliſh</hi> Ground: There's <hi>Tom-Fool,</hi> a very Ancient Family; and <hi>Tom-a-Bedlam,</hi> that has built him a Stately Pa<g ref="char:EOLhyphen"/>lace near <hi>Biſhops-Gate,</hi> and <hi>Tom-Tell-Troth;</hi> that thinks his Penny as good Silver as the proudeſt Bully, whoſe Ignorance will not let him underſtand, nor his Guilt bear Plain-dealing; and there's I <hi>Tom Ticklefoot,</hi> ſimply, though I ſay't that ſhould not ſay't, can derive my Pedigree as high as he that wears the <hi>Cock's-Feather in's Cap;</hi> Ay,
+<pb n="3" facs="tcp:59226:2"/>and many other <hi>Toms,</hi> that are not aſha<g ref="char:EOLhyphen"/>med to ſhew their Faces before the beſt man o'th' Pariſh.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>But all this is nothing to the purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>It may be not to your purpoſe; but it is cloſe and pertinent to my pur<g ref="char:EOLhyphen"/>poſe: I'le juſtifie it, I am a Gentleman eve<g ref="char:EOLhyphen"/>ry inch of me; and though the <hi>Ticklefoot's</hi> Family, like ſome great and famous Rivers, ran under-ground for a few Generations, we have as daring Blood running in our Veins as our Neighbours.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Yes, yes, it ſeems ſo; and from hence you took the Confidence to try over the Trials of <hi>Wakeman, Marſhal</hi> and <hi>Corker,</hi> and reflected ſawcily upon you know who!</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Piſh! <hi>Go to Law with a Beggar, and get a Lowſe!</hi> and if ever he get other Coſts and Damages of me, I'le forgive him. Beſides, I'le lay you an even Wager, two round Six-pences to a broad Shilling, there's never a Jury that plies in <hi>Weſt<g ref="char:EOLhyphen"/>minſter-Hall,</hi> would give a Lowſe-da<g ref="char:EOLhyphen"/>mage againſt me if I were Caſt; but I have raiſed ſuch a Mutiny between his Conſci<g ref="char:EOLhyphen"/>ence and his Guimneys, as will not be huſht again in one Twelvemonth; but to cry Quits with you, pray what News of Father <hi>Ireland</hi> in your parts.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Not a Syllable, I proteſt <hi>Tom.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Now that's a Wonder, Maſter! Why, does not <hi>Purgatory</hi> lie in the ready High Road to <hi>Hell?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Oh yes; we are within a ſtones throw of the Road; and not two Flight<g ref="char:EOLhyphen"/>ſhoots from Hell it ſelf: I have ſeen Souls crowding and thronging upon the Road thither, as thick as ever I ſaw Gowns in <hi>Weſtminſter-Hall</hi> in the Term, eſpecially after the famous Victory we had over the <hi>French</hi> at <hi>Monts;</hi> and yet I could never hear a word leſs or more, good or bad of Father <hi>Ireland:</hi> I conclude therefore he cannot be there; for being a perſon of great Civility, and very much a Gentle<g ref="char:EOLhyphen"/>man, he would, no doubt, have call'd in, to ſee ſome of his old Acquaintance, though ſome of them o' late have got their <hi>Habeas Corpus,</hi> and are releas'd.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>
+                  <hi>Habeas Animam,</hi> Maſter; for ſo the Writ runs in your Court; but if I might be ſo bold, pray how do they get out of Purgatory? for I have learn'd all the cunning Tricks (you know) our Rogues here uſe to break priſon, but how to get of <hi>Purgatory,</hi> ſeems to me a difficult mat<g ref="char:EOLhyphen"/>ter.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Why, I'le tell thee, <hi>Tom;</hi> we all ſtood pricking up our Ears, and liſtning, like a Sow i'th' Corn, and aſſoon as any one hears the Money chink in the Baſon, that's offered at the Maſs, upon any parti<g ref="char:EOLhyphen"/>cular Souls account, away whips he up to Heaven, without the Civility of taking leave, and leaves all his Bag and Baggage behind him for Garniſh amongſt the poor priſoners: and therefore the Canon-Law determines, That <hi>the poor who are dead can have no Benefit by the Suffrages of the Li<g ref="char:EOLhyphen"/>ving, becauſe they are non-ſolvent.</hi> I, for my part, have lain here theſe 3 years and up<g ref="char:EOLhyphen"/>wards, and unleſs 'twas once or twice that I got out upon my parol, have not ſeen Sun, Moon or Stars all the while, becauſe I left nothing to the <hi>Prieſts</hi> to pray me out, and they'l be hang'd ere they do ought for Charity; but I'me very confident, Fa<g ref="char:EOLhyphen"/>ther <hi>Ireland,</hi> dying a Martyr, was not ob<g ref="char:EOLhyphen"/>lig'd to take a Turn in <hi>Purgatory,</hi> but had all his Sins expiated by his Sufferings, and went the ready way to Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I promiſe you, Maſter, that's very probable; for ſome ſuch Hopes Fa<g ref="char:EOLhyphen"/>ther <hi>Turner</hi> gave us in his laſt Prayer at the Gallows.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Ay ſmeet <hi>Tom!</hi> that thou woul<g ref="char:EOLhyphen"/>deſt favour me with a Copy on't!</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>You may command a greater matter than that comes to: Here it is; <q>O ſweet Jeſus, who hath ſuffered a moſt painful and ignominious Death upon the Croſs for our Salvation, Apply, I be<g ref="char:EOLhyphen"/>ſeech there; unto me the Merits of thy Sacred Paſſion; and ſatictifie unto me theſe Sufferings o' mine (which I humbly accept <hi>for thy ſake</hi>) <hi>in union of the Suffer<g ref="char:EOLhyphen"/>ings of thy Sacred Majeſty, and in Puniſh<g ref="char:EOLhyphen"/>ment, and Satisfaction of my Sins.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>La' you there, <hi>Tom!</hi> you ſee the Excellency of our Religion, when our own Sufferings for Chriſt's ſake (ſuch as be ſure, Father <hi>Turner</hi>'s were) joyn'd with the Sufferings of <hi>Chriſt,</hi> will make Satisfa<g ref="char:EOLhyphen"/>ction to Divine Juſtice for our Sins.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>The Excellency of your Reli<g ref="char:EOLhyphen"/>gion! pray forbear: I can ſhew you as excellent Doctrine as this comes to, from a <hi>Reverend-Father of our own Church; If a man</hi> (ſays he) <hi>be ready to be thrown into th' Sea, he may be piouſly taught to pray after this manner,</hi> 
+                  <q>[Grant, O Lord, that the Death of thy Son, and this my Death may be united into one; that ſo being conjoyn'd; they may be accepted by thee, for the puniſhment of my Sins, that all thy Wrath may be forgotten, and all my Sins blotted out o' thy Book.]</q> Nay, I can tell you more, That your Father
+<pb n="4" facs="tcp:59226:3"/>
+                  <hi>Turner</hi> (though he was not ſo ingenuous as to confeſs it) did but borrow that Do<g ref="char:EOLhyphen"/>ctrine from that <hi>Roverend Father</hi> of ours, whom he may thank for the firſt occaſion of his being a Catholick: Nay, I'le tell you more than all this, that the degenera<g ref="char:EOLhyphen"/>ted <hi>Jews</hi> uſe to conclude their Lives with this Prayer; <hi>Let my Death be the Satisfacti<g ref="char:EOLhyphen"/>on for all my Sins!</hi> So that I ſee no ſingular Excellency in your Religion above other mens.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>However <hi>Tom,</hi> a blind man may ſee they <hi>died Martyrs</hi> in the Judgment of their own Conſciences.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>It may be ſo; but I aſſure you, they died <hi>Traytors</hi> in mine.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>O abominable uncharitableneſs! Why, doſt not believe thoſe ſolemn Prote<g ref="char:EOLhyphen"/>ſtations of their Innocency, thoſe ſerious Appeals to God made at the very laſt Gaſp?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Not a word, upon my Honeſty: For, as for Father <hi>Ireland,</hi> he dy'd with a lowd Lye in's Mouth, enough to have choak'd a man of an ordinary Swallow, without a <hi>Hempen Squinzey.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>That was an ugly Buſineſs in<g ref="char:EOLhyphen"/>deed <hi>Tom:</hi> But how doſt thou prove it <hi>Tom?</hi> how doſt prove it Boy?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Prove it! Why, Mr <hi>Jeniſon,</hi> a Zealot of their own Religion, has prov'd it over and over; for though modeſt <hi>Ire<g ref="char:EOLhyphen"/>land</hi> faced the Court, and would have out<g ref="char:EOLhyphen"/>faced the King's Evidence, that he was in <hi>Staffordſhire</hi> from <hi>Aug.</hi> 3. to the middle of <hi>Septemb.</hi> yet in comes this Gentleman, and of his own accord ſwears, that he ſaw him, ſpoke with him in <hi>London, Aug.</hi> 19. at his own Chamber, plucking off his Boots, ſay<g ref="char:EOLhyphen"/>ing he was juſt then come Poſt out of the Countrey: And this he did as a Gentle<g ref="char:EOLhyphen"/>man, upon no other Motive, but becauſe he ſaw how this bold Jeſuite Brazen'd it out againſt Authority, and huff'd and hector'd the Sheepiſh Proteſtants, when yet all <hi>Ireland</hi>'s Aſſeverations were broad Falſhoods; ſo that the thing's as plain as the Noſe on your Face.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Ay marry <hi>Tom!</hi> that was word<g ref="char:EOLhyphen"/>ed like a cunning Sophiſter; <hi>As plain as the Noſe of my Fate!</hi> why thou knoweſt <hi>I have no Noſe on my Face;</hi> and ſo I told thee before.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Why Maſter, have the Worms, or the Pox eaten it off? But I meant in<g ref="char:EOLhyphen"/>nocently; and to clear it, I ſay, 'tis as plain as the Noſe upon my own Face.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Come <hi>Tom,</hi> enough o' this jeſt<g ref="char:EOLhyphen"/>ing! doſt think I'me in a pickle to drole it, when I have lain ſo long reezing in the Smoke of Purgatory, that ſince the Pro<g ref="char:EOLhyphen"/>hibition of <hi>Weſtphalia Hams,</hi> I do not be<g ref="char:EOLhyphen"/>lieve there's any thing left in <hi>England</hi> that can ſample my Blackneſs. But are not things ſtrangely varied with you ſince the laſt Pacquet-Boat?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Ay indeed Maſter, we have rung Changes ſo long, that now we begin to ring the Bells backward: you ſhall ſee a man as hot as Muſtard againſt Plot and Plotters one day, and as cool (not to ſay frozen) as Charity, the next; ſo that I'me confident, <hi>Modern Charity, and Zeal a<g ref="char:EOLhyphen"/>gainſt Popery, equal Quantities, a Spoonful,</hi> is the beſt Julep in a buring Fever, that is in all the Diſpenſatory. <hi>Good lack!</hi> how have I ſeen a man bawl, and ſome at mouth for the Plaintiffe to day, that would bawl as lowd for the Defendant to morrow! in twenty four hours the Nature of things and men ſhall be ſo changed, that you cannot know 'em again; He that was all <hi>Choler,</hi> ſhall be all <hi>Flegm,</hi> as if the man had been Tapt, and a Sheep's Blood trans<g ref="char:EOLhyphen"/>fus'd into a Lion's Veins.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Pre'thee <hi>Tom</hi> unriddle me this Riddle; for I proteſt it's beyond my <hi>Clod-pated Capacity</hi> to underſtand it.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>It's done as eaſily as you can kiſs your hand; 'tis but fluxing a man with Quickſilver, and he's clear another thing.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Ay but it's dangerous medling with theſe Quickſilver Medicines <hi>Tom.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Upon my word, Sir, none at all; you may give it to a <hi>Chryſom-Child;</hi> 'tis as ſafe as Butter'd Ale, and as nouriſhing; my Life for your, there's no danger in't; you may if you pleaſe, give it inwardly in a competent Doſe of <hi>Aurum Potabile</hi> (that's a rare Vehicle!) or outwardly, by <hi>
+                     <g ref="char:V">Ʋ</g>nction,</hi> which is only a hard word for <hi>Greaſing in the Fiſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>And has it done thoſe Feats they boaſt of?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Oh Sir! believe it, if all the Blind that have had their Eyes open'd, all that have had their Tongues looſed, all that have been cured of Deafneſs, Dumb<g ref="char:EOLhyphen"/>neſs, by this rare Receipt, were but ſo Civil as to make their Acknowledgments, our <hi>Lady of Halle</hi> would not Glory in a more numerous Retinue: It has made that, <hi>no Evidence</hi> to <hi>ſave one,</hi> which was <hi>clear and good Evidence</hi> to <hi>hang a whole Baker</hi>'s <hi>Dozen;</hi> it has made ſometimes <hi>two Witneſſes</hi> neceſſary to every Branch and Article of an Indictment, when, in another Caſe, and at another Time, <hi>one Witneſs</hi> to each Branch or Article, had been mortal, and
+<pb n="5" facs="tcp:59226:3"/>kill'd a man as dead as a red Herring: It ſhall make a <hi>Plot no Plot,</hi> in eight and forty hours, and convert deadly poyſon into a Sovereign Cordial; and that's pretty fair, I think, for one Receipt: which you may ſee in <hi>Poor Ro<g ref="char:EOLhyphen"/>bin</hi>'s <hi>Pharmacopoeia.</hi> But I beſeech you Maſter, how come you by your Intelligence?</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>We know nothing but what we have from the publick Prints, Diurnals, Cou<g ref="char:EOLhyphen"/>rants, Gazettes, Pamphlets which fly up and down thick and threefold, eſpecially of late. Indeed formerly we had St. <hi>Coleman</hi>'s Letters twice a Week; and they were Authentick: but he's now better employ'd, and our Sta<g ref="char:EOLhyphen"/>ple Advice is from the <hi>Gazettes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I wonder who writes theſe <hi>Gazettes</hi> in your Territories.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>In truth <hi>Tom,</hi> I cannot well tell; but ſome few years agone there was a <hi>Slip-ſtring-Fellow</hi> wrote 'em; he had a hardiſh kind of <hi>Strange</hi> Name; but really I have forgot it, only I remember they ſay he was one of old <hi>Noll</hi>'s Fidlers, and was old Dog at it; he cou'd tell you where <hi>Rowland Pippin</hi> dwelt, and de<g ref="char:EOLhyphen"/>cypher all his <hi>Bum-Truſſes.</hi> There was not a <hi>Spaniel,</hi> or a <hi>Watch</hi> loſt, but he could recover it better than <hi>Will. Lilly, Moll Cut-purſe,</hi> or the <hi>City-Marſhal:</hi> but now I think on't, there has been a great Smoak and Smother o' late about the Fires of <hi>London</hi> and <hi>Southwark;</hi> prythee what do you <hi>above-ground</hi> ſay of that?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Nay, what do you <hi>below-ground</hi> ſay of? for moſt men with us think you have Reaſon to know more on't than we.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Pardon me <hi>Tom,</hi> for that! we muſt not tell Tales out of the School; we're un<g ref="char:EOLhyphen"/>der an Oath of Secreſie, not to reveal the <hi>Ar<g ref="char:EOLhyphen"/>cana Imperii,</hi> the Myſteries of our <hi>Subterrane<g ref="char:EOLhyphen"/>an Kingdom.</hi> Beſides, to tell you true, we are not of the <hi>Divan;</hi> poor Wretches, we are kept cloſe priſoners, and know as little as you do, what the <hi>Grand Signior</hi> of Hell is plotting in his <hi>Cabinet-Council,</hi> only common Fame goes with us, that the Fire of <hi>London</hi> wonderfully abated the Flames of <hi>Purgatory,</hi> they were e'ne ready to leap out o' their skins for Joy at the News; but tell me ſeriouſly, whether you believe our Friends had <hi>a Fin<g ref="char:EOLhyphen"/>ger</hi> in't?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>
+                  <hi>A Finger!</hi> Ay <hi>a Hand, a Head, a Heart,</hi> and <hi>All</hi> in't. Honeſt <hi>Reading</hi> tells us in his Trial, that Mr. <hi>Bedlow</hi> had laid in Fa<g ref="char:EOLhyphen"/>gots behind the <hi>Palſgrave</hi>'s-<hi>Head Tavern,</hi> to burn <hi>Weſtminſter;</hi> this he did when a <hi>Papiſt;</hi> but he repented ſincerely, was pardoned fully and freely; and when <hi>Reading</hi> charges it, and he owns it, who can deny the Truth of it?</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Did <hi>Reading</hi> charge it on him? then was he as great a <hi>Clod-pate</hi> as my ſelf; and yet I thought I had been the Head of our Fa<g ref="char:EOLhyphen"/>mily, and the Top of all our Kin! well! I ſhall never be <hi>dead</hi> as long as <hi>Reading</hi> is alive; I only wiſh inſtead of the <hi>Pillory,</hi> he had mounted the <hi>Gallows;</hi> for he has done our Cauſe more Diſſervice by this Jobb, than ever he did it a Kindneſs by <hi>diſparaging the King's Witneſſes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Why then, Maſter, I perceive you and I are agreed; let him hang himſelf to ſave <hi>Squire Ketch</hi> a Labour, and honeſtly cheat him of his Fees.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>But <hi>Tom,</hi> what ſaiſt thou to thoſe ſweet hopeful Youths that came from St. <hi>O<g ref="char:EOLhyphen"/>mars?</hi> Did they not play their parts notably, and manfully overwhelm the <hi>King</hi>'s <hi>Evi<g ref="char:EOLhyphen"/>dence</hi> with a Torrent of Truth?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I promiſe you they had been <hi>excel<g ref="char:EOLhyphen"/>lent Tools,</hi> had they been in all points a little better <hi>inſtructed;</hi> for they ſpoke home to the <hi>Time in Queſtion,</hi> but for an <hi>hour before,</hi> they ſpake as they had <hi>never been born;</hi> and for an <hi>hour after,</hi> as if they had been <hi>already dead.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>I confeſs ſome of 'em came blewly off; but we can have Twenty more ſuch In<g ref="char:EOLhyphen"/>ſtruments for time of need; and we reſolve never to ſtarve our Cauſe, as you ſilly Pro<g ref="char:EOLhyphen"/>teſtants do.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Nay I'le ſay that for you, you ra<g ref="char:EOLhyphen"/>ther cram your Cauſe than ſtarve it; but have a care you do not kill it with Kindneſs, and whilſt you would feed it, burſt it; <hi>over<g ref="char:EOLhyphen"/>doing</hi> is ſometimes <hi>undoing;</hi> but I'le bear you good witneſs, he's a Fool that will accuſe you Catholicks for ſtarving of your Cauſe.</p>
+               <p>
+                  <list>
+                     <item>
+                        <hi>Inprimis,</hi> For Firing the Burrough of <hi>South<g ref="char:EOLhyphen"/>wark</hi> 1000 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </item>
+                     <item>
+                        <hi>Item,</hi> For poyſoning the King, 15000 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </item>
+                     <item>
+                        <hi>Item,</hi> For removing Sr. <hi>Edmondbury God<g ref="char:EOLhyphen"/>frey,</hi> 4000 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </item>
+                     <item>
+                        <hi>Item,</hi> For Leſſening the King's Evidence, and making the Witneſſes eaſie, <hi>per An.</hi> 1000 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </item>
+                     <item>
+                        <hi>Item,</hi> For piſtolling the King, 1500 <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Trouble not your ſelf <hi>Tom</hi> with us or our Concerns; wee'l look well enough to the main Chance I'le warrant thee, without thy Advice; but God has given you <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi> one ſingular Gift: <hi>That you believe our Words that you hear, and will not believe our Works which we do, and ſo neither your Faith, nor your <g ref="char:V">Ʋ</g>nbelief can ſave you:</hi> but ſo long as we can make you believe your own Ears more than your Eyes, let us alone; wee'l deal well enough with you.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Well Maſter, it grows very late; you know my Occaſions, pray leave me to my ſelf; I ſhall be peeviſh and wrangliſh all day, if I want my Natural Reſt; and ſo good Night Sir; betake your ſelf to your Reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>To my Reſt, <hi>Tom!</hi> No haſte but good: Reſt in <hi>Purgatory!</hi> Thank you for
+<pb n="6" facs="tcp:59226:4"/>nothing: O the Laſſies of Red-hot Whips of Steel-wire! O the burning Pincers that muſt tear me! O the glowing Coals that muſt be my Couch! What horror doth the remem<g ref="char:EOLhyphen"/>brance of what I have ſuffered, and the anti<g ref="char:EOLhyphen"/>cipating Thoughts of what I muſt ſuffer, work in my amazed Soul, when the deſtined Hour calls me to that <hi>Penance;</hi> and do you bid me go reſt?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Why Sir, is the Body in <hi>Purga<g ref="char:EOLhyphen"/>tory?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>What a Childiſh Queſtion is that for a man of your years? My Body (all that's left on't) is in the Grave; I'me ſure I left it there: but 'tis my Soul, <hi>Tom,</hi> that's tormented in theſe Flames.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Now for Old-Acquaintance-ſake, Maſter, tell me, are theſe <hi>Whips,</hi> theſe <hi>Pin<g ref="char:EOLhyphen"/>cers,</hi> theſe <hi>Flames</hi> you talk of, <hi>Material,</hi> or <hi>Immaterial?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>That's a Captious Queſtion now; the <hi>Pincers,</hi> and <hi>Whips, Tom,</hi> are Metapho<g ref="char:EOLhyphen"/>rical Terms; but I'le aſſure thee there's as real <hi>Laſhings, Whippings, Scorchings</hi> as ever you ſaw a Felon endure at the <hi>Whipping-Poſt,</hi> or a Thief when he's <hi>Burnt in the Hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>But I cannot conceive for my Life, how <hi>Material Inſtruments</hi> can affect an <hi>Immaterial Being.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>You cannot? perhaps ſo <hi>Tom;</hi> thou'rt a dull Philoſopher: but to put you to't a little; why may not <hi>a Material pair o' Pincers</hi> take hold of an <hi>Immaterial Spirit,</hi> as well as a <hi>pair of Immaterial Pincers</hi> take hold of a <hi>Material Corporeal Subſtance?</hi> Is there not the ſame proportion between <hi>Ma<g ref="char:EOLhyphen"/>terial</hi> and <hi>Immaterial,</hi> that there is between <hi>Immaterial</hi> and <hi>Material?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Ay Sir, to a ſingle Hair's Breadth; and if you can ſhew me thoſe <hi>Immaterial Tweezers,</hi> or <hi>Pincers,</hi> that can take hold of <hi>a Body,</hi> I ſhall eaſily <hi>believe that</hi> (though not ſo eaſily <hi>conceive how</hi>) a <hi>Material pair</hi> may take hold of a <hi>Soul:</hi> Come, let me ſee you do't, and I render my ſelf your pris'ner, and ſhall become your <hi>Proſelyte.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Look thee there <hi>Tom,</hi> is not <hi>Feel<g ref="char:EOLhyphen"/>ing Believing,</hi> as well as <hi>Seeing?</hi> What ſay you now?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Oh, Oh, Oh, Oh, my Noſe, my Noſe, my poor Noſe, my precious Noſe! <hi>Purgatory</hi> take your <hi>Immaterial Pincers;</hi> you have almoſt pluckt off my Noſe.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Really <hi>Tom,</hi> 'twas only my <hi>Imma<g ref="char:EOLhyphen"/>terial Fingers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Would you had left your <hi>Fin<g ref="char:EOLhyphen"/>gers</hi> behind you, as well as your <hi>Noſe:</hi> but I remember now an old Charm we had when we were Boys.</p>
+               <q>
+                  <l>Hob with my Heels, and Bayard with my Toes.</l>
+                  <l>Riſe up Dead-man, and catch me by th' Noſe.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>'Twas only in jeſt, <hi>Tom;</hi> to con<g ref="char:EOLhyphen"/>vince thy Incredulity, of the Truth of the Doctrine of <hi>Purgatory,</hi> and the Extremity of our Torments; but it's an eaſie matter for ſuch Raskals as you, to drole and gibe very pleaſantly upon our Sufferings; I'me ſure 'tis we that feel the Smart on't with a wit<g ref="char:EOLhyphen"/>neſs.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I wonder in my heart how you, of all men living, came to drop into <hi>Purgatory.</hi> I alwayes thought that either your Virtues would ha' ſav'd you, or Vices damn'd you; for I proteſt, I could never for my life yet tell whether your Virtues or Vices were greater.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>The very Truth is, <hi>Tom,</hi> I had Virtues more than ever I got by; but there were an infinite Number of odd Trifles that I had ſet o'th' Back-ſide o' my Book, and thought no more on than my dying day; they call 'em <hi>Venial Sins,</hi> but they may call 'em what they will, and Nick-name 'em how they will; this I know, if this be the puniſhment of the <hi>Venial,</hi> I wonder how they fare that die under <hi>Mortal Sins:</hi> Now and then there would come dropping in a <hi>Sugar-Loaf;</hi> ſome<g ref="char:EOLhyphen"/>times a <hi>Couple of Capons;</hi> ſometimes a <hi>Fat Pig;</hi> and what Sin (thought I) can there be in a <hi>Fat Pig,</hi> or <hi>Couple of Capons?</hi> Really they were very agreeable Food. Twice or thrice (but that was ſeldom) a Paper of <hi>Guinneys</hi> was thruſt into my hands, handſom<g ref="char:EOLhyphen"/>ly, and modeſtly, as who ſay, <hi>Say nothing;</hi> and I have wondred at it, but could never find the Reaſon, my Fingers would ſtick to 'em like Bird-Lime; I vow it was alwayes a<g ref="char:EOLhyphen"/>gainſt my will: Then, once, or twice, or ſo, came a loving Letter from my Lord—, to ſhew decent Favours to an Innocent Gentle<g ref="char:EOLhyphen"/>man at the <hi>Seſſions;</hi> but thou know'ſt I al<g ref="char:EOLhyphen"/>wayes did Juſtice <hi>right or wrong.</hi> 'Tis true, I had ſome times occaſion to be Drunk; but <hi>Good Caſuiſts</hi> aſſur'd me 'twas lawful, for my Health's ſake, once a Month; and though I reduc'd it to once a Fortnight, or once a Week, a <hi>ſorry Circumſtance,</hi> could never make that <hi>Mortal,</hi> which before was but <hi>Venial,</hi> if <hi>a Sin at all;</hi> now I argued thus with my ſelf, If we be agreed that <hi>the Thing</hi> is <hi>Lawful in it ſelf,</hi> why ſhould we make ſuch a Stir about the <hi>Quoties?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I proteſt you argue moſt profound<g ref="char:EOLhyphen"/>ly, and had your Learning out o' our <hi>Law-Books;</hi> for when a <hi>Capias</hi> will not do, we take out an <hi>Alias,</hi> then a <hi>Pluries,</hi> and laſt of all a <hi>Toties quoties.</hi>
+               </p>
+            </sp>
+            <pb n="7" facs="tcp:59226:4"/>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Ay but, <hi>Tom, Tom,</hi> there was a ni<g ref="char:EOLhyphen"/>cer Point; for I ha been overtaken in a <hi>Baw<g ref="char:EOLhyphen"/>dy-Houſe;</hi> and though my ſtricteſt Confeſſors gave it under their Hands (and I alwayes had a <hi>Jeſuite</hi>) that a man may frequent thoſe Places, though he finds himſelf ordinarily overcome with the Temptation; provided alwayes that it be not his <hi>Primary Intention,</hi> in going thither, but that he deſigns either the <hi>Converſion,</hi> or <hi>Correction</hi> of thoſe Sinners; and though I were never good at <hi>Converſion,</hi> yet thou know'ſt I have claw'd the Jades, and made 'em <hi>ſing Lachrymae</hi> in <hi>Bridewel;</hi> and as I am a living Soul, I evermore ſet my Ends, and Aims, and Intentions as ſtraight as an Arrow, when I went in; yet, I cannot tell how, e're I came out again, my Hand turn'd, and I was carried down with the Stream: but this I muſt needs ſay: I have been guilty of <hi>Lying,</hi> which, in ſome Caſes, they ſay, is <hi>no Sin</hi> at all; as when the Lie is <hi>Officious:</hi> in others but <hi>Venial;</hi> as, when 'tis <hi>Ludicrous:</hi> and if in ſome Caſes it be <hi>Mortal;</hi> as, when 'tis <hi>Malicious:</hi> yet I dare ſwear, my <hi>Venial Lies</hi> were more by half than my <hi>Mortal ones;</hi> and then why might not I ſet the one againſt the other? But upon the whole, I muſt needs ſay, I'me better <hi>dealt with</hi> than I <hi>deſerved.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I'm clearly o' your mind for that matter; I'm ſure on't, we <hi>poor Proteſtants</hi> muſt ha' been damn'd for the tythe of what comes to: but, I aſſure you, we were ſo far from dreaming that you were in <hi>Purgato<g ref="char:EOLhyphen"/>ry,</hi> that we never ſuſpected you to be a Papiſt.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>There was my Maſter-piece <hi>Tom:</hi> It gave me a little <hi>refrigerium,</hi> once to think how I had eluded all their <hi>Oaths of Allegiance, Supremacy, their Teſts, and State-Ordeals;</hi> but I went to Church, when I could not hand<g ref="char:EOLhyphen"/>ſomly be ſick, nor take Phyſick; I railed at Fanaticks, and boaſted o' my Loyalty, and paſs'd for a very good Son of the Church: but, prethee <hi>Tom,</hi> how did my Executrix behave her ſelf towards my memory?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Oh, Sir! With all reſpectfulneſs imaginable, you had a moſt ſplendid Funeral, and at the Funeral a moſt elegant Sermon, where the Parſon Canoniz'd you for a Saint, the beſt man, the moſt tender Husband, the moſt uſeful Neighbour, the greateſt Peace<g ref="char:EOLhyphen"/>maker, the Oracle of the Bench for a Juſtice, the grand Pattern for a Chriſtian; and, in a word, you was the Mirrour of Chaſtity, Charity, Piety, and ſo he drew the Curtains about you, and left you to your Reſt. I, for my part, as I came out o'th' Church-door, could not but ſay, Well! whatever I thought, I ſee my Maſter (peace be with him) is in Heaven: And my Miſtreſs, who c<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'d and took on <hi>without all whoe,</hi> cauſed a ſumptu<g ref="char:EOLhyphen"/>ous Monument to be erected to your Memo<g ref="char:EOLhyphen"/>ry, with the name of both your Wives, your Anceſtors (indeed they mention'd not your Children, for a reaſon that we all knew;) and laſt of all, there was an <hi>Epitaph</hi> beſtowed upon your Marble.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>An <hi>Epitaph, Tom!</hi> Thou doſt me good at heart: I prethee, without more ado let me hear it; you cannot think how we are affected with thoſe Honours and Re<g ref="char:EOLhyphen"/>ſpects which are ſhewn to our <hi>
+                     <g ref="char:V">Ʋ</g>rns</hi> and <hi>Me<g ref="char:EOLhyphen"/>mories.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Indeed Maſter, I cannot vouch for the Poetry of it, but 'twas the beſt we could chuſe out of a dozen, and, to be plain with you, I made it my ſelf, but it coſt me pump<g ref="char:EOLhyphen"/>ing.
+<q>
+                     <l>Here lies old Juſtice <hi>Clod-pate,</hi>
+                     </l>
+                     <l>Who had many a crotchet in's <hi>od-pate;</hi>
+                     </l>
+                     <l>And had it not been for <hi>Grizel</hi> his Wife,</l>
+                     <l>He might have lived all the days of his life.</l>
+                     <bibl>Sic cecinit <hi>Tom Ticklefoot.</hi>
+                     </bibl>
+                  </q> but Maſter, our caſe is very hard beyond yours, who count thoſe ſins <hi>venial</hi> that we judge <hi>mortal,</hi> and muſt pay for 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Who'l pity you, <hi>Tom,</hi> when you may ſo eaſily evade the danger o' <hi>mor<g ref="char:EOLhyphen"/>tal ſins,</hi> and will not?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I had as lieve as a hundred ſhil<g ref="char:EOLhyphen"/>lings, I had the knack on't, how to ſin, and enjoy my ſelf all my life long, and then eſcape eternal Torments at the laſt.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Come, <hi>Tom,</hi> what will you give me, if I inſtruct you in the Myſtery on't in a moment?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Ah, <hi>ſweet Honey-Maſter!</hi> I'le give you a <hi>Ten Groats-Fee;</hi> or you ſhall have all I get at the Wake to morrow, be it leſs or more; <hi>Happy go Luckie,</hi> you ſhall have it every Farthing, <hi>bona fide;</hi> you ſee I ha' not forgot all my <hi>Latine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>
+                  <hi>Ten Groats!</hi> Who's Fool then, <hi>Tom?</hi> Will you procure 15000 <hi>Maſſes to be ſaid for my Soul?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>You fly high, Sir; why, <hi>Pyke<g ref="char:EOLhyphen"/>ring</hi> was but to have 15000 <hi>Maſſes</hi> for <hi>killing a King.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Nay, now thou'rt out, <hi>Tom-fool:</hi> Doſt think thoſe Maſſes were to deliver him from <hi>Purgatory</hi> for ſuch a <hi>Meritorious Work?</hi> No, no, he never needed fear <hi>Purgatory</hi> on that Account; but if perhaps he had died in the Act under ſome Irregularities; as ſuppoſe, guilty of ſome other Peccadillo's, thoſe <hi>Maſſes</hi> ſhould have quitted his <hi>odd Scores,</hi>
+                  <pb n="8" facs="tcp:59226:5"/>and fetcht him out of <hi>Limbo</hi> with flying Co<g ref="char:EOLhyphen"/>lours. Now for the Vaſtneſs of the Sum, <hi>Tom,</hi> that was only (as the Learned ſpeak) <hi>in ma<g ref="char:EOLhyphen"/>jorem Cautelam;</hi> or as we of the <hi>Laity,</hi> to make ſure work on't: And is it not better to have a Thouſand or two of Maſſes too many, than one ſingle Maſs too few? Come <hi>Tom, Store's no Sore,</hi> in my mind; and if he hap<g ref="char:EOLhyphen"/>pen'd to have any <hi>Overplus,</hi> he might ſell 'em at a Marketable Rate, and do his Indigent Friends a Kindneſs: What ſay you, <hi>Tom,</hi> will you come up to my price?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Upon my honeſt word, I'le pro<g ref="char:EOLhyphen"/>cure you fifteen thouſand, <hi>under or over;</hi> it's pretty hard to count exactly to an Unite; but I'le be as good as my word, and there's a Te<g ref="char:EOLhyphen"/>ſter to bind the Bargain.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Why, then in the firſt place, you muſt confeſs all your Sins, with their Circum<g ref="char:EOLhyphen"/>ſtances, in Thought, Word and Deed, and get your Ghoſtly Father to abſolve you for 'em; then you muſt provide your ſelf of good ſtore of Indulgences for all thoſe Sins that are out o'the Prieſt's Jurisdiction, and when you come to die, get a <hi>Franciſcan</hi>'s <hi>Cowl</hi> thrown over your Ears, and I'le war<g ref="char:EOLhyphen"/>rant you, <hi>Purgatory</hi> ſhall never ſinge a Hair of your Head; but if you ſhould drop in by chance (as who can be againſt a Chance) then get ſome of your Friends to lay down as much Money for you as will purchaſe fifteen thouſand Maſſes for your Soul, which is but <hi>fifteen hundred Pound.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Ay <hi>marry Maſter!</hi> this is juſt as long as 'tis broad; I muſt get 15000 Maſſes to be ſaid for your Soul, to tell me the rare Secret of getting 15000 to be ſaid for my own; and ſo I muſt be at the Charge for my ſelf and you too, which comes to three thou<g ref="char:EOLhyphen"/>ſand pounds ſterling: I ſee the Prieſts will lick their Fingers on both ſides, and gain, whoe<g ref="char:EOLhyphen"/>ver loſes; would I had my Six-pence again: I'le not hold.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Nay I knew thou wouldſt play the <hi>Jack</hi> with me; but I'me well enough ſerv'd, to truſt a Raſcal that has cheated me ſo often.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>And ſo are we eaſie <hi>Proteſtants,</hi> to truſt you, when we have had ſuch dear<g ref="char:EOLhyphen"/>bought Experience of your Famous Maxim, That <hi>no Faith is to be kept with Hereticks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>But, <hi>Tom,</hi> I'le tell thee a <hi>pleaſant Story.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I cannot hinder you telling your Stories; but I'me reſolved never more to be<g ref="char:EOLhyphen"/>lieve a Word you ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Your Unbelief comes too late now <hi>Tom;</hi> you have believed us ſo long, and we have made that advantage of it, that we care not Two-pence whether you believe us or no: you believed us till we had done our Work; you may now ſpare your <hi>Faith;</hi> wee'l make you live by <hi>Feeling,</hi> e're we ha' done with you.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Pray leave Fidling with my Noſe then, and I defie you; do your worſt; but what will you, what can you do?</p>
+            </sp>
+            <sp>
+               <speaker>Clodp.</speaker>
+               <p>What's that to <hi>Tom Ticklefoot?</hi> Do you think us ſuch Fools as to tell you before hand? No: Wee'l caſt a Miſt before your Eyes, you ſhall not ſee what you do ſee: nor hear what you do hear, nor believe the ful<g ref="char:EOLhyphen"/>leſt, cleareſt Evidence that can be brought in againſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>And ſo I hope you have done: <hi>Bo<g ref="char:EOLhyphen"/>nus Nocius,</hi> Maſter, in plain Engliſh, <hi>Good Night.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clodp.</speaker>
+               <p>Farewel, honeſt <hi>Tom:</hi> but wonnot you hear my fine Story out?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>
+                  <hi>Hear it out?</hi> Why, it is not begun yet; and when you once begin, you'l never know when to make an end; you'l have all the Talk to your ſelf, engroſs and monopolize the Diſcourſe, and poor <hi>Tom</hi> ſhall not wedge in a word to ſave his Life: I am never more tormented than with your wordy, long-wind<g ref="char:EOLhyphen"/>ed impertinencies.</p>
+            </sp>
+            <sp>
+               <speaker>Clodp.</speaker>
+               <p>Why then I'le tell thee the ſhorteſt, and trueſt Story that ever I told in all my dayes.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>That you may ſoon do, I promiſe you, but pray Sir, what is it?</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Honeſt <hi>Dick Langhorn</hi> came late laſt night to Purgatory.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>And is this one of the ſhort Stories? why, I foreſee, if a man had no more Grace and Wit than to ſit it out, you will make this ſhort Story laſt till to morrow this time. He <hi>came to Purgatory;</hi> and he came <hi>laſt night to Purgatory;</hi> pray let's divide the point, that we may handle it more diſtinctly. And <hi>firſt,</hi> I pray, why to <hi>Purgatory?</hi> I had thought your Martyrs had made but <hi>one Stage on't to Heaven?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cold-p.</speaker>
+               <p>No great matter what you think: I tell thee I ſaw him there, with theſe Eyes, by the ſame token, there were two or three young Jeſuits, that gave him the courſeſt Complement for a welcome, that I ſuppoſe he ever had in's life.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklf.</speaker>
+               <p>I long extremely to hear their rude Salutation.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Why <hi>Tom,</hi> aſſoon as ever they ſpi<g ref="char:EOLhyphen"/>ed him, without Preface, without Ceremony, they fell aboard him, and ſo belabour'd him, each with his well-temper'd Steel whip, that had lain ſoaking in Fire and Brimſtone above a Month (Ay, <hi>Tom,</hi> there were Rods in piſs for him) and did ſo firk him too and again, raked him <hi>fore</hi> and <hi>aſt,</hi> that I proteſt I have ſeen few ſuch Bouts ſince I came hither.</p>
+            </sp>
+            <pb n="9" facs="tcp:59226:5"/>
+            <sp>
+               <speaker>Ticklf.</speaker>
+               <p>But ſtill I'm in the dark, why ſuch an Eminent Saint, ſuch an Heroick Martyr, ſhould be doom'd to Purgatory; if he drop't in by chance, it was an ugly chance.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>The plain truth is, 'tis whiſpered amongſt us, that <hi>Dick Langhorn</hi> plaid the <hi>Scoggin,</hi> and revealed ſome Myſteries of his own Trade, and ſome of the Jeſuits, about ſome Lands ſettled upon their Society, for their better Maintenance, and other Uſes, which they call <hi>Secret Service.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Then Maſter, <hi>Secondly,</hi> Why not before <hi>late laſt night?</hi> did he make <hi>Loyter<g ref="char:EOLhyphen"/>pins</hi> by the way? had he beſtirred his ſtumps, and not <hi>truanted</hi> his time, he might have reacht his Journeys end a fortnight ago.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Come, come, <hi>Tom,</hi> make it your own caſe: he that's to be hang'd finds moſt of the Spectators at the Gallows before him; I'le engage for thee, <hi>Tom,</hi> had'ſt thou been ſent o' that Errand, thou would'ſt not ha' broke thy ſhins for haſte.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>It may be I might, if ſome unhappy Wagg had ſet Stools and Forms in my way, when I came groping in the dark: Ha, Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Well, well Sirrah; leave your frump<g ref="char:EOLhyphen"/>ing, the Caſe was this; When he came juſt to the gate, and view'd the frightful Frontiſ<g ref="char:EOLhyphen"/>piece, all croſs-barr'd with Iron; Smoke and Flame breaking out at the Loop-holes, his Heart miſgave him; and though he was led by four ſtern <hi>infernal Paritors,</hi> he claps his Feet againſt the Threſhold, and his hands againſt both ſides of the Wicket, and there he ſtuck and hung an Arſe ſo obſtinately, like a <hi>Thill-Horſe,</hi> that with all the ſtrength and cunning they had, they could not get him in. The <hi>Governour of our Bridewell</hi> ſends out half a dozen of us to aſſiſt the Beadles, but two of 'em (I thank ye,) having got a Spit and a ſtride, ſhew'd us a fair pair of heels, and honeſtly ran away. I confeſs, I had as good a mind as the beſt to have made one, but being troubled of old with a ſcurvy <hi>Sciatica,</hi> I diſtruſted my Footmanſhip, and durſt not venture to augment my Torments by a fruit<g ref="char:EOLhyphen"/>leſs Attempt, but there ſtood we heaving, lifting, thruſting, ſhoving, three or four days, till we were all quite ſpent, to no purpoſe; till yeſterday in the Evening, one of our fine-witted Jeſuits with a wile, (which they have at their Fingers ends) got him into <hi>Limbo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>I wonder you have not a ſquadron of Angels there ready for a deſperate piece of ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Why, truly <hi>Tom,</hi> there were An<g ref="char:EOLhyphen"/>gels there of both ſorts, Good and Bad; but the good had a great kindneſs for him, for he's right in the main, and they would not make, nor meddle with us, hot nor cold, but bid us bake as we brew'd, for they would not concern themſelves without an expreſs Order from <hi>Rhadamanthus.</hi> As for the bad Angels, they ſhewed themſelves very offici<g ref="char:EOLhyphen"/>ous, but he was ſo anointed all over with oyl of Equivocations, they might as ſoon hold an Eel by the tayl, as get a gripe on him: beſides, he had ſo flancker'd and forti<g ref="char:EOLhyphen"/>fied himſelf, with Croſſings, <hi>Agnus Dei's,</hi> and Reliques, he was more Impregnable than <hi>Oſt<g ref="char:EOLhyphen"/>end</hi> or <hi>Stockholm:</hi> but at laſt, what Force could not do, that fine Policy I told you of before effected.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>
+                  <hi>You told me before:</hi> Sure Maſter you talk idly for want of ſleep: I never heard the fine Policy, nor do I believe that any quirks or tricks as Hell it ſelf could over<g ref="char:EOLhyphen"/>reach a Catholick Lawyer.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>In ſhort, it was this: A crafty Je<g ref="char:EOLhyphen"/>ſuit comes me as far as the Wicket; <hi>Dick Langhorn,</hi> (ſayes he) what will you not ſee your old Friend <hi>Bedloe?</hi> he's juſt now arri<g ref="char:EOLhyphen"/>ved a back-way in our Quarters. Is the Rogue <hi>Bedloe</hi> arrived (replied he) I'le have one laſh at his Breech for all his good Deeds: and being a little tickled with the ſugred hopes of Revenge, was not, it ſeems, ſo careful of his hold, but let his Hands and Feet ſlacken, and the Officers watching their opportunity, heaved him in, and fairly clap't the gate upon him: but I ſhall never forget how they ferretted him; <hi>Banks</hi> his Horſe ne<g ref="char:EOLhyphen"/>ver danced a Galliard at that wild rate: they ſmoak't him, they jerk't him, and bounc'd him about the ſtoops, and ſcoured all the Arrears of his four dayes obſtinacy upon his hide, though we might legibly read the marks of a late Diſcipline he had undergone before he came thither.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Now, I proteſt Maſter, All this is as pure a <hi>Romance</hi> as <hi>Purgatory</hi> it ſelf: and I'le be as good as my word, not to be<g ref="char:EOLhyphen"/>lieve one ſyllable of this ſhort <hi>long Story;</hi> but yet I would fain know the order of your proceedings in puniſhing Offenders there.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>
+                  <hi>Tom,</hi> Did'ſt ever ſee the Diſcipline of <hi>Bridewell?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Yes, Maſter, many and many a time; but once to my exceeding great Mor<g ref="char:EOLhyphen"/>tification, above all the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Why juſt ſuch is the Diſcipline of <hi>Purgatory;</hi> for this is certain, that in the Time of Popery in <hi>England,</hi> a curious Artiſt brought 'em a Model of <hi>Purgatory,</hi> and the <hi>Court of Aldermen</hi> made <hi>Bridewel</hi> by the Plat<g ref="char:EOLhyphen"/>form: the Delinquent is brought in, and with ſtrong Cords is made to embrace the <hi>Whip<g ref="char:EOLhyphen"/>ping-Poſt,</hi> two ſturdy ſtout Knaves ſtand rea<g ref="char:EOLhyphen"/>dy
+<pb n="10" facs="tcp:59226:6"/>Armed with their Inſtrumens of Executi<g ref="char:EOLhyphen"/>on; the Maſter o' this Houſe o' Correction ſits in his great Chair, his Aſſeſſors on either hand, he holds in his right hand (that is, ex<g ref="char:EOLhyphen"/>cept he be left-handed) a ſmall Hammer (thus far you would ſay it was but an <hi>Auction</hi>) and when he gives the word of Command, the Lictors fall to Work; that is, Knock goes the Hammer, <hi>Slaſh</hi> (ſay they) upon his <hi>Poſterio<g ref="char:EOLhyphen"/>rums: Thump</hi> again goes the Hammer, <hi>Thwack</hi> go they; and ſo as long as the Hammer goes, and—</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Pray Maſter, pardon me, if I inter<g ref="char:EOLhyphen"/>rupt you a little: I proteſt <hi>Purgatory</hi> has been as ill beſtow'd upon you as upon any man that ever went through that Gantelope.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Prythee, why, <hi>Tom?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>You three years and upwards in that School! Fie, I'me aſham'd of you.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p</speaker>
+               <p>Why, <hi>Tom.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tickef.</speaker>
+               <p>Why? What an incorrigible piece are you? The End of the Inſtitution of that Furnace was, to burn off all the Droſs, Ruſt, and Filth that Sinners had contracted here in this World; but I perceive you'r as famous a Liar as ever you was in your Life: I'le ex<g ref="char:EOLhyphen"/>change places with you, if ever the Legends told greater Rappers than you have done in ſo few Lines. For ſhame, Maſter, for ſhame, no more of this Stuff; you may lie for the Whetſtone, I'le warrant you. You think you have Travell'd where I ſhall never come to confute you; and now you think you may lie by Authority, and <hi>cum Privilegio.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>What, you'r got into one of your Rayling Humors.</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Out upon't, theſe are all meer <hi>Par<g ref="char:EOLhyphen"/>keriſm's;</hi> get a <hi>Sac. Dom.</hi> to Licence your Stories, or I'le hold you a Wager your Book will be burnt like <hi>Muggleton</hi>'s.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>Well then, <hi>Tom,</hi> tell me ſome truer Stories of your own: I long to carry ſome News with me down below; if I come emp<g ref="char:EOLhyphen"/>ty, they'l go nigh to ſend me back again. What News, prythee, about your Elections? I hear there's old Drinking, and Feaſting, and Treating ſtill for Members to ſerve in Parlia<g ref="char:EOLhyphen"/>ment: What kind o' People do they chuſe?</p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Why, Sir, e'ne ſo, ſo; a Thief and a Gentleman, as they couple Rabbits.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>But I would fain hear whom they have choſen at my Native Town of <hi>B—.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>Well thought on, Maſter; I have juſt now receiv'd a Letter that will gratifie your Curioſity, and Importunity both with a Labour: In the firſt place, they have pitch'd upon an Old, Rotten, Crooked, Warped piece of <hi>Timber,</hi> that will never make a Supporter for a Tottering State, or a Crutch for a Lame Church; ſuch a Stick of Wood as I durſt not venture to make a <hi>Hovel-Poſt</hi> on: They may make a pair of Gallows of him to hang his <hi>Electors,</hi> and that's all that ever he will be good for: And in the next place, they have choſen a Son to Vote againſt, and Condemn his own Father: And is it not a comely Sight to ſee the Son within the Walls of the Houſe o' <hi>Commons,</hi> when the Dad is within the Walls o'th' <hi>Tower</hi> for <hi>High-Treaſon?</hi> This is their Choice; and now they'r ready to eat off their Fingers for their Folly, when 'tis too late.</p>
+            </sp>
+            <sp>
+               <speaker>Clod-p.</speaker>
+               <p>That's a piece o'th' beſt News I'me like to carry down with me: But, <hi>Tom,</hi> how have they choſen in <hi>Eſſex?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ticklef.</speaker>
+               <p>O! Upon my Word, there's a Cooting Card for you: But I perceive you play <hi>Loath to Depart: Good Night, Maſter, once for all.</hi> Pray have a Care you do not break your Shins again as you go out: And if you have a mind to tell any more Stories, pray tell 'em to the Wall for me; I'le go ſleep as hard as I can drive; and ſo Farewel Maſter <hi>Clod-pate.</hi>
+               </p>
+            </sp>
+         </div>
+         <div type="to_the_reader">
+            <pb n="11" facs="tcp:59226:6"/>
+            <head>Tom Ticklefoot To his Reader, <hi>Greeting.</hi>
+            </head>
+            <p>'TIs more hard to Reform an <hi>Inveterate,</hi> though <hi>Irrational Cuſtome,</hi> than to Cure the Itch; and a Non-ſenſical Whim, that can plead Preſcription, will cruſh a private Practice to dirt, that wants Gray Hairs and Gravity to procure it Veneration: the plain <hi>Engliſh</hi> of all which is but this; <hi>As good be out o'th' World as out o'th' Faſhion,</hi> though never ſo Apiſh and Ridiculous: how<g ref="char:EOLhyphen"/>ever, for once, I'me reſolv'd on't to try whether my <hi>New Book</hi> (like the <hi>New Barge</hi>) will not Sail againſt the <hi>Wind of Antiquity,</hi> and the <hi>Tide of Peeviſh Example:</hi> It has hitherto all along been the Mode of all our Scriblers to March their <hi>Epiſtolary Addreſſes</hi> in the <hi>Van</hi> of their Books; An errant <hi>Hyſteron Proteron</hi> (ſay <hi>I</hi>) <hi>the Cart before Horſe,</hi> for all the World: To call him thy <hi>Courteous,</hi> thy <hi>Candid,</hi> thy <hi>Ingenuous,</hi> thy <hi>Learned Reader,</hi> (marry, come up my Dirty Goſſip!) when perhaps the poor man has not read <hi>one Line, one Word, one Syllable</hi> on't, and if he be wiſe, be ſure, <hi>never will;</hi> whereas I, upon good Advice, have placed mine in the <hi>Rear,</hi> poli<g ref="char:EOLhyphen"/>tickly conſidering, that by this Artifice he muſt be my Reader, e're I call him ſo, in ſpight of his Noſe. Now then have at thee, <hi>Courteous Reader,</hi> (or by what Name or Title ſoever thou haſt a mind to be <hi>Dignified or Diſtinguiſhed</hi>) I do boldly recommeed my Dialogue to thee my own ſelf, becauſe, perhaps no body elſe will; and if thou thinkeſt that to applaud it upon my Credit, is to venture thy Judgment upon an <hi>Implicit Faith;</hi> prythee conſider, the moſt of Mankind have taken up their Religion upon no better Principle: Thou'lt hardly believe me, if I ſhould tell thee I could have had the Licenſes of all the Fat <hi>Choplains,</hi> Middle-ſized <hi>Chaplains,</hi> and the Thin-Gutted <hi>Chiplains</hi> about Town, and a thouſand thanks to boot, that I would honour them ſo for, as to ſuffer their Names to appear in the Frontiſpiece: whether the <hi>Pope</hi> has got it into the <hi>Vatican,</hi> I dare not ſay; but its more than probable if <hi>the Act for Regulating the Preſs,</hi> had been in force, both the <hi>Univerſities</hi> had claimed their <hi>Copies</hi> by this time; and yet now I think on't, it had <hi>then</hi> never been written: It has been a Queſtion moved among the Learned, whether the Expiration of that <hi>Statute</hi> has done more good than harm? and without doubt it had been very pernicious to the Publick if this one Dialogue had not made a<g ref="char:EOLhyphen"/>mends for the Miſchief of our Scurrulous Pamphlets: To tell thee one half of its Ex<g ref="char:EOLhyphen"/>cellencies, would tempt thee to disbelieve the other half; and whilſt it pretends to cure all Diſeaſes (with our Quacks) thou'lt be ready to Queſtion whether it can cure any? yet take a Taſte of its Charity. Is it nothing to releaſe fourteen poor Priſoners out o' <hi>Ludgate,</hi> and ſet 'em up as fiſh-whole as before they were crackt? What thinkeſt thou of <hi>20</hi> poor Lads put out Apprentices? or of <hi>40</hi> poor old Widows cloath'd from Top to Toe againſt Winter? I will not affirm this, but enquire, and thou'lt ſoon know the Truth of it: What ſtrange Cures it has wrought upon thoſe that were given up by the Colledge, I ſhall not need to relate; how it has opened the <hi>Thorax,</hi> and diſcuſs'd <hi>Hy<g ref="char:EOLhyphen"/>pochondriacal Winds,</hi> removed the <hi>Obſtructions of the Spleen,</hi> broke <hi>Impoſthume</hi> with a Fit of Langhter, is obvious to conceive; but the ſhorteſt way is this; Look into the Printed Miracles of <hi>Rhodocanaces Spirit of Salt,</hi> the <hi>Pillulae Proprietatis, Elixir Vitae,</hi> the <hi>Golden Spirit of Scurvy-Graſs;</hi> and if all their Boaſted Cures be but the Wonders of my Dialogue, and viſibly ſtollen from thence, thou canſt not but confeſs its <hi>Medical Excellencies.</hi> Now for <hi>Feats of Activity, Sleight of Hand,</hi> and all <hi>Manu<g ref="char:EOLhyphen"/>al Operations,</hi> it cuts the World out o' Diſtance, it ſhall turn your Spit far beyond the Dog in a Wheel; it cracks Nuts faſter than any Squirrel; it will pick thy Pocket o' thy Money ere thou'rt aware, and ſhall make thee rejoyce to be ſo cheated; for the Advancement o' Trade, there's nothing like it; ſend it but to the <hi>Eaſt-Indies,</hi> and the Company may ſpare us our Gold; it will fetch us home <hi>Cloves, Cinamons, Mace, Nutmegs, Pep<g ref="char:EOLhyphen"/>per, Ginger,</hi> and all the <hi>Oriental Spiceries;</hi> nay <hi>Diamonds</hi> are like to be Dog-cheap another Year, <hi>Silks</hi> more common than <hi>Searges,</hi> and <hi>French-Wines</hi> had come in helter skelter in Exchange for it, but for an odd thing, the call it (I think) <hi>Staving.</hi> If thou haſt an Ambition to be reputed a <hi>Scholar,</hi> cry up this Piece; it ſhall ſatisfie the
+<pb n="12" facs="tcp:59226:7"/>World more of thy Abilities, than if thou talked'ſt nothing but <hi>Sanchoniathon,</hi> and <hi>Je<g ref="char:EOLhyphen"/>rom-Baal:</hi> Thou'lt wonder above all, if it ſhould have been turn'd into <hi>Latine, French, Italian, Spaniſh</hi> ſo ſoon; ay, and into <hi>Dutch</hi> too, had it not been above their Flegma<g ref="char:EOLhyphen"/>tick Intellectuals. I might have had Money for my Copy, if I had been wiſe; all the Fear was, ſome Knaves would have <hi>Printed upon</hi> the Proprietor: And yet I can<g ref="char:EOLhyphen"/>not deny ſome Accidental Inconveniences have attended it, which was beyond my Fore<g ref="char:EOLhyphen"/>ſight and Power to Remedy. It has utterly ſpoyl'd two of the D—<hi>'s Vindications,</hi> and half Broke <hi>A. Brewſter:</hi> The <hi>Jeſuits Trials,</hi> (ſome think) will fall to Three-pence a<g ref="char:EOLhyphen"/>piece in a day or two: The <hi>Hawkers</hi> may go cool their Toes; this <hi>Dialogue</hi> has ſup<g ref="char:EOLhyphen"/>preſs'd 'em far better than my <hi>Lord Mayor's</hi> Proclamation; but the worſt of all is, leſt ſome ſilly <hi>Proteſtants</hi> ſhould believe the <hi>Reality of purgatory,</hi> and ſo turn <hi>Papiſts,</hi> upon my <hi>Maſter Clod-pate</hi>'s ſingle Authority; but I can eaſily ſatisfie them: The plain Truth is, I do ſuſpect that 'twas none of my <hi>Old Maſter</hi> that told me that long <hi>Flim-flam<g ref="char:EOLhyphen"/>prittle-prattle</hi> of <hi>Purgatory,</hi> but <hi>Old Nick</hi> in his Likeneſs; for in the Morning I could trace him to the Window by the print of his <hi>Cloven Foot,</hi> as eaſily as ever I Tra<g ref="char:EOLhyphen"/>ced Hares ith' Snow. To conclude, <hi>Reader,</hi> if thou ſhalt duly prize and value this as it deſerves, I'le have another <hi>Dialogue</hi> for thee, and another Tackt to the End of that; but beware of a Surfeit. Two Sheets is enough in all Reaſon for a Doſe for the ſtrong<g ref="char:EOLhyphen"/>eſt Conſtitution, and one for the weaker; but if thy Ignorance and Pride ſhall ſuffer me to break off my <hi>New Trade,</hi> I can Retreat Honourably to my <hi>Late Employment,</hi> and once again become</p>
+            <closer>
+               <dateline>
+                  <hi>From</hi> Green-Gooſe-<hi>Fair,</hi> 
+                  <date>Aug. <hi>25. 1679.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Tom Ticklefoot the</hi> Tabourer.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59226:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
